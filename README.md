@@ -1,2 +1,2 @@
-# -niversite-Y-netim-Sistemi
+# Üniversite-Yönetim-Sistemi
 Üniversite Yönetim Sistemi
